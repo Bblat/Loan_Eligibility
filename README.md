@@ -1,9 +1,12 @@
 # Personal Loan Eligibility Predictor
 This project implements an Artificial Neural Network (ANN) model to predict the eligibility of clients for a bank loan based on various features such as age, income, credit card status, and more. The model achieves a high level of performance with the following evaluation metrics:
 
-F1 Score: 0.8913
+F1 Score: 0.8913 
+
 Precision: 0.9535
+
 Recall: 0.8367
+
 Accuracy: 0.9800
 
 # Introduction
